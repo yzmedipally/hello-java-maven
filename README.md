@@ -9,5 +9,5 @@ Maven based builds and tests for HelloWorld in Java
 ```sh
 Build Steps:
 export JAVA_HOME='/usr/lib/jvm/java-1.8.0-openjdk/'
-maven package
+mvn package
 ```
